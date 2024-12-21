@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm very new to coding and everything GitHub related, so this will be pretty short! I'm a UC Berkeley student studying Energy Engineering, and hope you have a great day! 
+
 <!--
 **ImJonnyL/ImJonnyL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
